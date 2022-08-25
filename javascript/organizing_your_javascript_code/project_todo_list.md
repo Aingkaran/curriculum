@@ -20,9 +20,8 @@ Before diving into the code, take a minute to think about how you are going to w
    3. expand a single todo to see/edit its details
    4. delete a todo
 6. For inspiration, check out the following great todo apps. (look at screenshots, watch their introduction videos etc.)
-   1. [Todoist](https://en.todoist.com/)
-   2. [Things](https://culturedcode.com/things/)
-   3. [any.do](https://www.any.do/)
+   1. [Things](https://culturedcode.com/things/)
+   2. [any.do](https://www.any.do/)
 7. Since you are probably already using webpack, adding external libraries from npm is a cinch!  You might want to consider using the following useful library in your code:
    1. [date-fns](https://github.com/date-fns/date-fns) gives you a bunch of handy functions for formatting and manipulating dates and times.
 8. We haven't learned any techniques for actually storing our data anywhere, so when the user refreshes the page, all of their todos will disappear! You should add some persistence to this todo app using the Web Storage API.
